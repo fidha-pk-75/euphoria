@@ -1,0 +1,50 @@
+[{
+  "imgurl" :"images/img-5.jpg",
+  "title" : "Shirts",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-6.jpg",
+  "title" : "Printes T-Shirts",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-7.jpg",
+  "title" : "Plain T-Shirts",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+  
+},
+{
+  "imgurl" :"images/img-8.jpg",
+  "title" : "Polo T-Shirts",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-9.jpg",
+  "title" : "Hoodies & Sweetshirt",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-10.jpg",
+  "title" : "Jeans",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-12.jpg",
+  "title" : "Activewear",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-11.jpg",
+  "title" : "Boxers",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+}
+]

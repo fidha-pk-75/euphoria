@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>product details</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style1.css">
+  <link rel="stylesheet" href="responsive1.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <i class="fa-solid fa-bars" id="menuBar" style="color: #3C4242;" onclick="menutoggle()"></i>
+      <a href=""><h1 class="Euphoria"><img src="images/Logo.svg" alt="Euphoria"></h1></a>
+    </div>
+      <div class="navbuttons">
+      <ul id="menuList">
+        <li><a href="#" style="color: #3C4242; font-weight: 700;">Shop</a></li>
+        <li><a href="#">Men</a></li>
+        <li><a href="#">Women</a></li>
+        <li><a href="#">Combos</a></li>
+        <li><a href="#">Joggers</a></li>
+      </ul>
+    </div>
+      <div class="search">
+        <img src="images/search.svg" alt="Search icon" class="lens">
+        <input type="text" name="" id="searchbar" placeholder="Search">
+      </div>
+      <div class="navitems">
+        <div class="profileitems" id="pfsearch">
+          <img src="images/search.svg" alt="Search icon" class="pfli">
+        </div>
+        <div class="profileitems">
+          <img src="images/wishlist.svg" alt="wishlist" class="pfli">
+        </div>
+        <div class="profileitems">
+          <img src="images/account.svg" alt="Account" class="pfli">
+        </div>
+        <div class="profileitems">
+          <img src="images/cart.svg" alt="Cart" class="pfli">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="productoverview">
+    <div class="slide">
+        <div class="gallary">
+            <img src="images/img-25.jpg" alt="Slide Image1"  onclick="changeImage(this)">
+          </div>
+        <div class="gallary" id="gallarymid">
+          <img src="images/img-16.jpg" alt="Slide Image2"onclick="changeImage(this)" >
+        </div>
+        <div class="gallary">
+          <img src="images/img-26.jpg" alt="Slide Image3"onclick="changeImage(this)">
+        </div>
+        <div class="gupicon">
+          <a href=""><i class="fa-solid fa-angle-up"></i></a>
+        </div>
+        <div class="gdownicon">
+          <a href=""><i class="fa-solid fa-angle-down" style="color: #f6f6f6;"></i></a>
+        </div>
+    </div>
+
+    <div class="productimage">
+      <img class="mainimage"  src="images/img-16.jpg" alt="Product Image">
+    
+
+    <div class="productinformations">
+      <div class="productPath">
+        <ul>
+          <a href=""><li>Shop</li></a><i class="fa-solid fa-angle-right"></i>
+          <a href=""><li>Women</li></a><i class="fa-solid fa-angle-right"></i>
+          <a href=""><li>Top</li></a><i class="fa-solid fa-angle-right"></i>
+        </ul>
+      </div>
+      <div>
+      <h1 class="productTitle">Raven Hoodie With 
+        Black colored Design</h1></div>
+
+        <div class="comments">
+          <div class="rating">
+            <img src="images/star.svg" alt="Star">
+            <img src="images/star.svg" alt="Star">
+            <img src="images/star.svg" alt="Star">
+            <img src="images/star.svg" alt="Star">
+            <img src="images/star.svg" alt="Star">
+            <p>3.5</p>
+          </div>
+          <div class="comment">
+            <img src="images/message.svg" alt="message">
+            <p>120 comment</p>
+          </div>
+        </div>
+
+        <div class="sizecollections">
+          <div class="sizehead">
+            <p>
+              Select Size
+            </p>
+            <div class="sizeguide">
+              <p>Size Guide </p>           
+              <i class="fa-solid fa-arrow-right"></i>
+            </div>
+          </div>
+          <div class="sizes">
+            <div class="sizediv">
+              <button class="size">XS</button>
+            </div>
+            
+            <div class="sizediv">
+              <button class="size">S</button>
+            </div>
+            <div class="sizediv">
+              <button class="size">M</button>
+            </div>
+            <div class="sizediv">
+              <button class="size">L</button>
+            </div>
+            <div class="sizediv">
+              <button class="size">XL</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="colorsection">
+          <h1 class="colorhead">Colours Available</h1>
+          <div class="colorpalate">
+            <div class="color">
+                <div class="black innercolor"></div>
+            </div>
+            <div class="color">
+              <div class="yellow innercolor"></div>
+            </div>
+            <div class="color">
+              <div class="pink innercolor"></div>
+            </div>
+            <div class="color">
+              <div class="red innercolor"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="addtocart">
+          <button class="add"><img src="images/cart (1).svg" alt="Cart icon">Add to cart</button>
+          <button class="pricebutton">$63.00</button>
+        </div>
+        <hr style="border: 1px solid #BEBCBD;margin: 2px;">
+        <div class="moreoptions">
+        <div class="options">
+          <div class="option">
+            <div class="optnicon">
+              <img src="images/credit card.svg" alt="Credit Card"style="width: 15px;height: 15px;">
+            </div>
+            <span class="optncap">Secure Payment</span>
+          </div>
+          <div class="option">
+            <div class="optnicon">
+              <img src="images/Size&Fit.svg" style="width: 15px;height: 15px;" alt="Size&Fit">
+            </div>
+            <span class="optncap">Size & Fit</span>
+          </div>
+          </div>
+          <div class="options" id="optn2">
+          <div class="option">
+            <div class="optnicon">
+              <img src="images/truck.svg" alt="Truck"style="width: 15px;height: 15px;">
+            </div>
+            <span class="optncap">Free shipping</span>
+          </div>
+          <div class="option">
+            <div class="optnicon">
+              <img src="images/Free-Shipping&Returns.svg" alt="Free-Shipping&Returns"style="width: 15px;height: 15px;">
+            </div>
+            <span class="optncap">Free Shipping & Returns</span>
+          </div>
+        </div>
+        </div>
+    </div>
+  </div>
+  </section>
+
+  <section class="description">
+    <div class="padding">
+      <div class="leftdescription">
+        <div class="subTitle">
+          <div class="purple"></div>
+          <h1 class="subHead">Product Description</h1>
+        </div>
+        <div class="navigate">
+          <ul>
+            <a href=""><li>Description</li></a>
+            <a href=""><li>User comments <span class="cmnt">21</span></li></a>
+            <a href=""><li>Question & Answer <span class="qna">4</span></li></a>
+          </ul>
+        </div>
+        <hr style="margin: 0px; width: 43px; border: 1.4px solid #000000;margin: 5px;">
+        <p class="productdetails">100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide  all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.</p>
+    </div>
+    <div class="rightporion">
+      <div class="right">
+        <hr class="middlepart">
+        <div class="flexes">
+          
+          <div class="toppart">
+            <div id="one" class="metrl">
+              <p class="meterials">Fabric</p>
+              <p class="meterial">Bio-washed Cotton</p>
+            </div>
+            <div class="two metrl">
+              <p class="meterials">Pattern</p>
+              <p class="meterial">Printed</p>
+            </div>
+            <div class="three metrl">
+              <p class="meterials">Fit</p>
+              <p class="meterial">Regular-fit</p>
+            </div>
+          </div>
+          <div class="downpart">
+            <div id="one" class="metrl">
+              <p class="meterials">Neck</p>
+              <p class="meterial">Round Neck</p>
+            </div>
+            <div class="two metrl">
+              <p class="meterials">Sleeve</p>
+              <p class="meterial">Half-sleeves</p>
+            </div>
+            <div class="three metrl">
+              <p class="meterials">Style</p>
+              <p class="meterial">Casual Wear</p>
+            </div>
+          </div>
+          <hr class="colm1">
+          <hr class="colm2">
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  </section>
+
+  <section class="similarproducts">
+    <div class="padding">
+      <div class="subTitle">
+        <div class="purple"></div>
+        <h1 class="subHead">Similar Products</h1>
+      </div>
+
+      <div id="similarproductflex"></div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="padding">
+      <div class="innerbox">
+        <div class="links">
+          <div class="sec" id="help">
+            <h5>Need Help</h5>
+            <div class="innersec">
+              <a href=""><p>Contact Us</p></a>
+              <a href=""><p>Track Order</p></a>
+              <a href=""><p>Return & Refund</p></a>
+              <a href=""><p>FAQ's</p></a>
+              <a href=""><p>Career</p></a>
+            </div>
+          </div>
+          <div class="sec" id="company">
+            <h5>Company</h5>
+              <div class="innersec">
+                <a href=""><p>About Us</p></a>
+                <a href=""><p>euphoria Blog</p></a>
+                <a href=""><p>euphoriastan</p></a>
+                <a href=""><p>Collaboration</p></a>
+                <a href=""><p>Media</p></a>
+              </div>
+          </div>
+          <div class="sec" id="moreinfo">
+            <h5>More Info</h5>
+            <div class="innersec">
+              <a href=""><p>Term and Conditions</p></a>
+              <a href=""><p>Privacy Policy</p></a>
+              <a href=""><p>Shipping Policy</p></a>
+              <a href=""><p>Sitemap</p></a>
+            </div>
+          </div>
+          <div class="sec" id="location">
+            <h5>Location</h5>
+            <div class="innersec">
+              <a href=""><p>support@euphoria.in</p></a>
+              <a href=""><p>Eklingpura Chouraha,Ahamedabad Main Road</p></a>
+              <a href=""><p>(NH 8-Near Mahadev Hotel)Udaipur,india- 313002</p></a>
+            </div>
+          </div>
+        
+          <div class="download">
+            <p>Download The App</p>
+          </div>
+        
+
+          <div class="app">
+            <div class="playstore">
+              <div class="playstoreicon">
+                <img src="images/playstore.svg" alt="PlayStore">
+              </div>
+              <div class="googleplay">
+                <a href=""><p>android app on</p></a>
+                <a href=""><p class="appname">Google Play</p></a>
+              </div>
+            </div>
+
+            <div class="applestore">
+              <div class="appstoreicon">
+                <img src="images/phone.svg" alt="Phone">
+              </div>
+              <div class="apple">
+                <a href=""><p>Available on the</p></a>
+                <a href=""><p class="appname">App Store</p></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="social">
+            <div class="facebook">
+              <img src="images/facebook.svg" alt="facebook">
+            </div>
+            <div class="insta">
+              <img src="images/instagram.svg" alt="instagram">
+            </div>
+            <div class="twitter">
+              <img src="images/twitter.svg" alt="twitter">
+            </div>
+            <div class="linkedin">
+              <img src="images/linkedin.svg" alt="linkedin">
+            </div>
+          </div>
+          </div>
+
+          <div class="topdown">
+            <div class="Populardiv">
+              <div class="popularflex">
+                <p class="Popular">Popular Categories</p>
+                <button class="dropdownbutton" id="dropdownbutton">
+                  <i class="fa-solid fa-angle-down" style="color: #f6f6f6;" id="downicon"></i>
+                </button>
+              </div>
+  
+              <div class="dropdownlist" id="drop">
+                    <a href="" class="dropitem"><p>Term and Conditions</p></a>
+                    <a href=""class="dropitem"><p>Privacy Policy</p></a>
+                    <a href=""class="dropitem"><p>Shipping Policy</p></a>
+                    <a href=""class="dropitem"><p>Sitemap</p></a>
+                
+              </div>
+            </div>
+            <div class="cop">
+              <p class="Copyright">Copyright © 2023 Euphoria Folks Pvt Ltd. All rights reserved.</p>
+            </div>
+            
+          </div>
+         
+      </div>
+    
+  </footer>
+
+  <script src="script1.js"></script>
+</body>
+</html>

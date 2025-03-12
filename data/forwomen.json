@@ -1,0 +1,24 @@
+[{
+  "imgurl" :"images/imga-12.jpg",
+  "title" : "Hoodies & Sweetshirt",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-13.jpg",
+  "title" : "Coats & Parkas",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-14.jpg",
+  "title" : "Tees & T-Shirt",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+},
+{
+  "imgurl" :"images/img-15.jpg",
+  "title" : "Boxers",
+  "link" : "Explore Now!",
+  "arrowImg":"images/arrow-right.svg"
+}]
