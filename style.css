@@ -1,0 +1,797 @@
+@font-face {
+  font-family: Core Sans C;
+  src: url(/fonts/CoreSansC-55Medium.ttf);
+}
+@font-face {
+  font-family: Causten;
+  src: url(/fonts/Causten-Medium.otf);
+}
+.montserrat-montserrat {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+button,.rating img,.brands img{
+  cursor: pointer;
+}
+p ,h1,h2,h3,h4,h5,div,h6{
+  margin: 0px;
+}
+body a{
+  text-decoration: none;
+}
+body{
+  font-family:'Core Sans C';
+  margin: 0px;
+  padding: 0px;
+  height: auto;
+}
+.padding{
+  padding: 50px 100px 50px 102px;
+  box-sizing: border-box;
+}
+.Euphoria{
+  margin: 0px;
+  width: 91.16px;
+  height: 45px;
+}
+.Euphoria img{
+  height: 45px; 
+  width: 91.16px;
+  cursor: pointer;
+}
+ul{
+  font-family:'Causten' ;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 26.4px;
+  padding: 0px;
+  list-style: none;
+}
+ul li a{
+  text-decoration: none;
+  transition:0.1s;
+}
+.navbuttons ul li a,.productpath li a{
+  color:#807D7E;
+}
+.navbuttons ul,.productpath{
+  display: flex;
+  margin: 0px;
+  height: 26px;
+  gap: 40px;
+}
+.header{
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  background-color: white;
+}
+.container{
+  padding: 31px 100px;
+}
+.container,.navbuttons,.navitems{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-items: center;
+}
+.navitems,.search{
+  gap: 12px;
+}
+.search{
+  width: 267px;
+  height: 44px;
+  padding: 12px 20px;
+  border:none;
+  background-color: #F6F6F6;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 8px;
+}
+#searchbar{
+  font-family: 'Causten';
+  font-size: 16px;
+  font-weight: 400;
+  height: 19px;
+  border: none;
+  background-color: #F6F6F6;
+  width: 49px;
+}
+.lens{
+  height: 14.17px;
+  width: 14.17px;
+}
+#pfsearch{
+  display: none;
+}
+.fa-bars{
+  display: none;
+}
+.navitems{
+  width:156px ;
+  height: 44px;
+}
+.profileitems{
+  height:44px ;
+  width: 44px;
+  border-radius: 8px;
+  padding: 12px;
+  background-color: #F6F6F6;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.prfli{
+  width: 20px;
+  height: 20px;
+}
+.spotlight{
+  width: 100%;
+}
+.bg1{
+  height: 716px;
+  object-fit: cover;
+  z-index: 3;
+}
+.spotleft{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  top: 237px;
+  left: 193px;
+  width: 439px;
+  height: 455px;
+}
+.spottop,.spothead,.spotbottom{
+  margin: 0px;
+  color: #FFFFFF;
+  font-family: 'Core Sans C';
+  font-size: 32px;
+  font-weight: 500;
+}
+.button{
+  display: flex;
+  gap: 12px;
+  border: none;
+  font-family: 'Causten';
+  background-color:#FFFFFF ;
+  border-radius: 8px;
+  text-align: center;
+}
+#spotbutton{
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28.8px;
+  width:250px;
+  height: 61px;
+  padding: 16px 72px;
+}
+.spotleft a{
+  width:250px;
+  height: 61px;
+}
+.spothead{
+  font-size: 78px;
+  font-weight: 800;
+  line-height:93.62px ;
+  letter-spacing: 0.31px;
+}
+#slideleft{
+  width: 24px;
+  height: 44.47px;
+  position: absolute;
+  top: 391px;
+  left: 40px;
+  background-color: transparent;
+  border: none;
+}
+#slideright{
+  width: 24px;
+  height: 44.47px;
+  position: absolute;
+  top: 391px;
+  left: 1381px;
+  background-color: transparent;
+  border: none;
+}
+.slidebar{
+  display: flex;
+  position: absolute;
+  top: 765px;
+  left: 661px;
+  width: 126px;
+  height: 10px;
+  border: none;
+  border-radius: 12px;
+  
+}
+.leftslide,.rightslide{
+  width: 62px;
+  height: 10px;
+  border: none;
+  padding: 0px;
+  background-color: #FFFFFF;
+  opacity: 0.5;
+  transition: all 0.1s ease;
+}
+.leftslide{
+  border-radius: 12px 0px 0px 12px;
+  opacity: 1;
+}
+.rightslide{
+  position: absolute;
+  left: 63px;
+  border-radius: 0px 12px 12px 0px;
+}
+.leftslide:active ,.rightslide:active,.leftslide:hover,.rightslide:hover{
+  opacity: 1;
+}
+
+.section2{
+  padding-top: 130px ;
+}
+.container2{
+  display: flex;
+  justify-content: space-between;
+}
+.sec1,.sec2{
+  position: relative;
+  width: 604.93px;
+  height:356.2px;
+  overflow: hidden;
+  border-radius:12px ;
+  box-shadow: 2px 2px 10px 0px #00000066;
+
+}
+.sectionimg{
+  position: absolute;
+  top: -15px;
+  left: -100px;
+  width: 190%;
+}
+.sectionimg2{
+  position: absolute;
+  top: -25px;
+  left: 0px;
+  width: 140%;
+}
+.d1{
+  position: relative;
+}
+.content{
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  top: 60px;
+  left:30.07px ;
+}
+.content.two{
+  width: 264px;
+  height:243.24px;
+}
+.content a{
+  color: #FFFFFF;
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 30.13px;
+}
+.lowprice{
+  font-family: 'montserrat';
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 30.07px;
+}
+.sec2head{
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 45.1px;
+}
+.offer{
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.06px;
+}
+.content.one p.lowprice{
+  padding-bottom: 24.25px;
+}
+.content.one p.sec2head{
+  padding-bottom: 9.24px;
+}
+.content.one p.sec2offer{
+  padding-bottom: 41.52px;
+}
+.newArrivalSection{
+  box-sizing: border-box;
+ }
+.subTitle{
+  display: flex;
+  gap: 26px;
+  margin-bottom: 72px;
+}
+.purple{
+  width: 6px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #8A33FD;
+}
+.subHead{
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 33.5px;
+  letter-spacing: 2%;
+}
+.newArrivalitemsSlide{
+  position: relative;
+  display: flex;
+  gap: 22px;
+  align-items: center;
+}
+.image{
+  width: 263px;
+  height: 263px;
+  object-fit: fill;
+}
+.left,.rightbtn{
+  padding: 0px;
+  width: 13.59px;
+  height: 12px;
+  background-color: transparent;
+  border: none;
+}
+.newArrivalItems{
+  box-sizing: border-box;
+  display: flex;
+  gap:38.58px; 
+ }
+.productimage .image{
+  width:262.81px;
+  height: 262.81px;
+  border-radius: 12px;
+}
+.newarrivalitem{
+  display: flex;
+  gap: 32.67px;
+  flex-direction: column;
+}
+.proinfo{
+  font-family:'Causten';
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+}
+#newArrivals{
+  display: flex;
+  gap: 38.58px;
+}
+.imageportion{
+  position: relative;
+}
+.rightimage{
+  position: absolute;
+}
+.advcaption{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  top:183px;
+  left: 74px;
+  color: #FFFFFF;
+  width: 466px;
+  height: 282px;
+}
+.advhead{
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 50px;
+}
+.advcap{
+  width: 451px;
+  font-family: 'Causten';
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 24px;
+  word-spacing: 1px;
+  padding-right: 15px;
+  box-sizing: border-box;
+}
+#advbutton{
+  width: 168px;
+  height: 46px;
+  padding: 12px 44px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.6px;
+}
+#imagegrid,#Womensitems{
+  display: grid;
+  grid-template-columns:auto auto auto auto;
+  gap: 50.27px;
+}
+.griditem{
+  display: flex;
+  flex-direction: column;
+  gap: 14.52px;
+  border-radius: 8px;
+  position: relative;
+}
+.gridimage .gimg{
+  border-radius: 10px;
+}
+.arrowButton{
+  position: absolute;
+  right:0px ;
+  top: 423px;
+}
+.gproductname{
+  font-family:'Causten';
+  font-size: 17.88px;
+  font-weight: 700;
+  line-height: 27.93px;
+}
+.explorenow{
+  font-family: 'Causten';
+  color: #7F7F7F;
+  font-size: 13.41px;
+  font-weight: 500;
+  line-height: 27.93px;
+}
+.brandbody{
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 43.84px 122.98px 53.88px;
+  border-radius: 12px;
+  height: 357.17px;
+  border: 1.07px solid #323232;
+  background-color: #3C4242;
+}
+.brandimages{
+  display: flex;
+  gap:25px ;
+  justify-content: space-between;
+}
+.brands{
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 177.52px;
+  height: 85.55px;
+  object-fit: fill;
+}
+.brandhead{
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 49px;
+  text-align: center;
+}
+.brandoff{
+  font-family: 'Causten';
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26.4px;
+}
+.brandoff span{
+  font-weight: 700;
+  color: #FBD103;
+}
+.wishlistbutton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top:26.73px ;
+  left:228.95px ;
+  width: 32.36px;
+  height: 32.36px;
+  border-radius: 100%;
+  border: none;
+  background-color: #FFFFFF;
+}
+.like{
+  width: 13.75px;
+  height: 12.22px;
+  cursor: pointer;
+  transition: background-color 0.3s; 
+  color: #3C4242;
+}
+.limelightimage .gimg{
+  width: 282px;
+  height: 370px;
+  border-radius: 12px;
+}
+.lpinfo{
+  font-size:16px ;
+  font-weight:600 ;
+  font-family:'Causten' ;
+  line-height: 19.2px;
+  color:#3C4242 ;
+}
+.brandname{
+  font-size: 14px;
+  font-weight:500 ;
+  font-family:'Causten' ;
+  line-height: 16.8px;
+  color:#807D7E ;
+}
+.price{
+  position: absolute;
+  right: 0px;
+  width: 82.31px;
+  height: 36.58px;
+  border-radius: 8px;
+  border: none;
+  background-color: #F6F6F6;
+  font-family: 'Causten';
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16.8px;
+  text-align: center;
+}
+.limelight{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+#limelightflex,#similarproductflex{
+  left: -2px;
+  display: flex;
+  gap: 36px;
+  margin: 0px;
+}
+.prodescription{
+  display: flex;
+}
+.fedbackflex{
+  display: flex;
+  gap: 23.19px;
+  justify-content: space-between;
+  height: 305px;
+  margin-bottom: 13px;
+  box-sizing: border-box;
+}
+.profileoffeedbacker{
+  display: flex;
+  justify-content: space-between;
+}
+.feedback{
+  display: flex;
+  flex-direction: column;
+  width: 396.87px;
+  border-radius: 10px;
+  border: 1.8px solid #BEBCBD;
+  padding: 23.19px;
+  gap: 20px;
+  box-sizing: border-box;
+}
+.name{
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 21.6px;
+  color: #3C4242;
+}
+.feedbacks p{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-family: 'Causten';
+  color: #807D7E;
+  letter-spacing: 0.02em;
+}
+.scrollicons{
+  display: flex;
+  gap: 3.87px;
+  padding: 7.73px;
+  justify-content: center;
+  height: 23.19px;
+}
+.dots{
+  width: 7.73px;
+  height: 7.73px;
+  padding: 0px;
+  border-radius: 10px;
+  border: none;
+}
+#black{
+  background-color: #3C4242;
+}
+#white{
+  background-color: #BEBCBD4D;
+}
+footer .padding{
+  min-height:900px;
+  background-color: #3C4242; 
+  color: #F6F6F6;
+}
+footer .padding{
+  box-sizing: inherit;
+}
+footer a{
+  color: #F6F6F6;
+}
+.innerbox{
+  padding-left: 10px;
+  position: relative;
+}
+.links{
+  display: flex;
+  padding-left: 76px;
+  gap: 80px;
+}
+.sec h5,footer h1,.download,.populars p{
+  font-family: 'Causten';
+  font-size: 28.58px;
+  font-weight: 700;
+  line-height: 61.99px;
+}
+.sec p{
+  font-family: 'Causten';
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 39.04px;
+}
+footer .download{
+  position: absolute;
+  left: 751px;
+  top: 280px;
+}
+.sec,.innersec{
+  display: flex;
+  flex-direction: column;
+}
+.sec{
+  gap: 15px;
+}
+.innersec{
+  justify-content: space-between;
+}
+#help{
+  height: 292px;
+  width: 142px;
+}
+#company{
+  height: 292px;
+  width: 121px;
+}
+#moreinfo{
+  height: 248px;
+  width: 162px;
+}
+#location{
+  height: 204px;
+  width: 394px;
+}
+#help .innersec,#company .innersec{
+  height: 215px;
+}
+#moreinfo #innersec{
+  height: 171px;
+}
+#location .innersec{
+  height: 127px;
+}
+.app,.playstore,.applestore{
+  display: flex;
+  padding: 9.14px 8.67px;
+  box-sizing: border-box;
+}
+.app{
+  position: absolute;
+  left: 746px;
+  top: 361px;
+  gap: 21.24px;
+}
+.playstore,.applestore{
+  gap: 3.56px;
+  background-color: #404040;
+  border-radius: 12px;
+}
+.playstoreicon,.playstoreicon img{
+  width: 29.65px;
+  height: 32.98px;
+}
+.googleplay{
+  padding-left: 6px;
+}
+.googleplay p,.googleplay .appname,.apple p{
+  font-family: 'Causten';
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+}
+.googleplay .appname,.applestore .appname{
+  font-size: 18px;
+  line-height: 21.6px;
+}
+.appstoreicon,.applestore img{
+  width: 20.62px;
+  height: 31.63px;
+}
+.applestore{
+  gap: 10.43px;
+}
+.social{
+  position: absolute;
+  left: 83px;
+  top: 369px;
+  display: flex;
+  gap: 9.97px;
+}
+.social div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 37.02px;
+  height: 37.02px;
+  background-color: #F6F6F6;
+  border-radius: 10.68px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.Populardiv{
+  width: auto;
+  border-bottom: 1px solid #BEBCBD;
+  border-top: 1px solid #BEBCBD;
+}
+.topdown{
+  position: absolute;
+  top: 456px;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+.popularflex{
+  position: relative;
+  padding: 29px 76px;
+}
+.dropdownbutton{
+  position: absolute;
+  left: 1187.81px;
+  top: 48px;
+  background-color: transparent;
+  border: none;
+}
+.dropdownlist{
+  display: none;
+} 
+.Popular{
+  font-family: 'Causten';
+  font-size: 28.58px;
+  font-weight: 700;
+  line-height: 57.16px;
+}
+ .Copyright{
+  padding-top: 39px;
+  display: flex;
+  justify-content: center;
+  font-family: 'Causten';
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+ }
+ ul li a:active,ul li a:hover{
+  color: #3C4242; 
+  font-weight: 700;
+}
+.facebook:hover{
+  background-color: #1877F2;
+}
+.insta:hover{
+  background: linear-gradient(5deg, #833AB4, #E1306C, #FD1D1D, #F77737, #FFC837);
+}
+.twitter:hover{
+  background-color: #1DA1F2;
+}
+.linkedin:hover{
+  background-color: #0077B5;
+}

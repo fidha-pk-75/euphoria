@@ -1,0 +1,26 @@
+[
+  {
+    "imgurl" : "images/img-20.jpg",
+    "title" : "White T-Shirt",
+    "brand" : "Priya’s  Brand",
+    "price" : "$13.00"
+  },
+  {
+    "imgurl" : "images/img-22.jpg",
+    "title" : "Dark Green Sweatshirt....",
+    "brand" : "Roboto’s  Brand",
+    "price" : "$127.00"
+  },
+  {
+    "imgurl" : "images/img-23.jpg",
+    "title" : "Levender Sweatshirt....",
+    "brand" : "Jhanvi’s  Brand",
+    "price" : "$133.00"
+  },
+  {
+    "imgurl" : "images/img-24.jpg",
+    "title" : "Urban jacket with white....",
+    "brand" : "Sagar’s  Brand",
+    "price" : "$79.00"
+  }
+]

@@ -1,0 +1,799 @@
+@font-face {
+  font-family: Core Sans C;
+  src: url(/fonts/CoreSansC-55Medium.ttf);
+}
+@font-face {
+  font-family: Causten;
+  src: url(/fonts/Causten-Medium.otf);
+}
+.montserrat-montserrat {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+button,.rating img,.brands img{
+  cursor: pointer;
+}
+p ,h1,h2,h3,h4,h5,div,h6{
+  margin: 0px;
+}
+body a{
+  text-decoration: none;
+}
+body{
+  font-family:'Core Sans C';
+  margin: 0px;
+  padding: 0px;
+  height: auto;
+}
+.padding{
+padding: 50px 100px 50px 102px;
+box-sizing: border-box;
+}
+.Euphoria{
+  margin: 0px;
+  width: 91.16px;
+  height: 45px;
+}
+.Euphoria img{
+  height: 45px; 
+  width: 91.16px;
+  cursor: pointer;
+}
+ul{
+  font-family:'Causten' ;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 26.4px;
+  padding: 0px;
+  list-style: none;
+}
+ul li a{
+  text-decoration: none;
+  transition:0.1s;
+}
+.navbuttons ul li a,.productPath ul a,.productPath ul i ,.navigate ul li{
+  color:#807D7E;
+}
+.navbuttons ul,.productPath ul,.navigate ul{
+  display: flex;
+  margin: 0px;
+  height: 26px;
+  gap: 40px;
+}
+.header{
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  background-color: white;
+}
+.container{
+  padding: 31px 100px;
+}
+.container,.navbuttons,.navitems{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-items: center;
+}
+.navitems,.search{
+  gap: 12px;
+}
+.search{
+  width: 267px;
+  height: 44px;
+  padding: 12px 20px;
+  border:none;
+  background-color: #F6F6F6;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 8px;
+}
+#searchbar{
+  font-family: 'Causten';
+  font-size: 16px;
+  font-weight: 400;
+  height: 19px;
+  border: none;
+  background-color: #F6F6F6;
+  width: 49px;
+}
+.lens{
+  height: 14.17px;
+  width: 14.17px;
+}
+#pfsearch{
+  display: none;
+}
+.fa-bars{
+  display: none;
+}
+.navitems{
+  width:156px ;
+  height: 44px;
+}
+.profileitems{
+  height:44px ;
+  width: 44px;
+  border-radius: 8px;
+  padding: 12px;
+  background-color: #F6F6F6;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.prfli{
+  width: 20px;
+  height: 20px;
+}
+ul li a:active,ul li a:hover,.productPath ul a li:active,.productPath ul a li:hover,.productPath ul i:hover,.navigate ul li:hover,.navigate ul li:active {
+  color: #3C4242; 
+  font-weight: 700;
+ }
+.productoverview{
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.slide{
+  display: flex;
+  flex-direction: column;
+  gap: 22.68px;
+  align-items: center;
+  justify-content: center;
+  width: 281px;
+  height: 784px;
+  background-color: #F6F6F6;
+  position: relative;
+}
+.gallary{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75.6px;
+  height: 75.6px;
+  border-radius: 9.07px;
+  border: 0.53px solid #FFFFFF;
+  transition: all 0.2s ease;
+}
+#gallarymid,.gallary:hover,.gallary:active{
+  border: 0.76px solid #3C4242;
+  width: 77.11px;
+  height: 77.11px;
+  border-radius:12.1px ;
+}
+.gallary img{
+  width:68.04px ;
+  height: 68.04px;
+  object-fit: cover;
+  border-radius: 9.07px;
+  border: 0.53px solid #FFFFFF;
+}
+.gdownicon,.gupicon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 21.17px;
+  height: 21.17px;
+  border-radius: 10px;
+  box-shadow: 0.76px 0.76px 3.02px 0px #0000000A;
+  background-color: #FFFFFF;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+}
+.gallaryicon i{
+  width: 5.29px;
+  height: 8.23px;
+}
+.gdownicon{
+  background-color: #3C4242;
+}
+.productimage{
+  display: flex;
+  gap: 20px;
+  position: relative;
+  height: auto;
+}
+.mainimage{
+  height: auto;
+  width: 520px;
+  object-fit: cover;
+  left: 214px;
+}
+.productinformations{
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  left: 808px;
+  padding-top: 30px;
+  height: inherit;
+}
+.productPath ul{
+  gap: 15px;
+  font-size: 18px;
+  font-family: 'Causten';
+  line-height: 21.6px;
+  font-weight: 500;
+}
+.productPath ul a li{
+  transition: all ease;
+}
+.productPath ul i{
+  width:5px;
+  height: 10.14px;
+}
+.productTitle{
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 47.6px;
+  color:#3C4242;
+  letter-spacing: 2%;
+  width: 393px;
+}
+.comments{
+  height: 22px;
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+.comment,.rating,.sizeguide{
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+.comment p,.rating p{
+  font-family: 'Causten';
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.6px;
+  color: #807D7E;
+}
+.sizecollections{
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.sizehead{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.sizehead p{
+  font-family: 'Causten';
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.6px;
+  color: #807D7E;
+  transition: all  ease;
+}
+.sizeguide i{
+  color: #807D7E;
+  transition: all ease;
+}
+.sizehead p:hover,.sizehead p:active,.sizeguide i:hover,.sizeguide i:active{
+  font-weight:600 ;
+  color: #3F4646;
+}
+.sizes{
+  display: flex;
+  gap: 20px;
+}
+.sizediv{
+  width: 42px;
+  height: 42px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.size{
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+  border: 1.5px solid #BEBCBD;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#FFFFFF;
+  font-family: 'Causten';
+  font-size: 14px;
+  font-weight: 500;
+  color: #3C4242;
+  line-height: 16.8px;
+  transition: all ease;
+}
+.size:hover,.size:active{
+  background-color: #3C4242;
+  color: #FFFFFF;
+}
+.colorpalate{
+  display: flex;
+  gap:20px ;
+  height: 30px;
+}
+.colorsection{
+  display: flex;
+  gap: 25px;
+  flex-direction: column;
+}
+.colorhead{
+  font-family:"Causten";
+  font-Weight:600;
+  font-size: 18px;
+  line-height:21.6px;
+  color: #3F4646;
+}
+.color{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  transition: all ease;
+}
+.color:hover,.color:active{
+  border: 1px solid #3F4646;
+}
+.innercolor{
+  width: 22px;
+  height: 22px;
+  border-radius: 11px;
+}
+.black{
+  background-color: #3C4242;
+}
+.yellow{
+  background-color: #EDD146;
+}
+.pink{
+  background-color:#EB84B0 ;
+}
+.red{
+  background-color: #9C1F35;
+}
+.addtocart{
+  width: 362px;
+  justify-content: space-between;
+  display: flex;
+}
+.add,.pricebutton{
+  padding: 12px 40px;
+  border-radius: 8px;
+  display: flex;
+  gap: 12px;
+  font-family: 'Causten';
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.6px; 
+}
+.add{
+  background-color:#8A33FD ;
+  color: #FFFFFF;
+  border: none;
+  font-weight: 600;
+  align-items: center;
+}
+.pricebutton{
+  border: 1px solid #3C4242;
+  color: #3C4242;
+  background-color: #FFFFFF;
+}
+.options{
+  display: flex;
+  gap: 68px;
+  padding-top: 5px;
+}
+.option{
+  display: flex;
+  gap: 16px;
+  height: 50px;
+  align-items: center;
+}
+.optnicon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height:44px;
+  border-radius: 22px;
+  background-color: #F6F6F6;
+  cursor: pointer;
+}
+.optncap{
+  font-family: "Causten";
+font-weight: 500;
+font-size: 18px;
+line-height: 21.6px;
+}
+#optn2{
+  padding-top: 20px;
+  gap: 90px;
+}
+.padding{
+  padding: 100px;
+  position: relative;
+}
+.subTitle{
+  display: flex;
+  gap: 26px;
+  margin-bottom: 72px;
+}
+.purple{
+  width: 6px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #8A33FD;
+}
+.subHead{
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 33.5px;
+  letter-spacing: 2%;
+}
+.navigate ul a li{
+  font-family: 'Causten';
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.6px;
+  transition: all ease;
+}
+.navigate ul a li:hover,.navigate ul a li:active{
+  font-weight: 500;
+  padding-bottom:10px ;
+}
+.cmnt,.qna{
+  width: 20px;
+  height: 20px;
+  padding: 4px 5px;
+  font-family: 'Causten';
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: 500;
+  background-color: #8A33FD;
+  color: #FFFFFF;
+  border-radius: 4px;
+}
+.qna{
+  background-color:#3C4242 ;
+}
+.description .padding{
+  display: flex;
+  justify-content: space-between;
+  gap: 26px;
+}
+.productdetails{
+  font-family: 'Causten';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #807D7E;
+  letter-spacing: .02px;
+  padding-top: 30px;
+}
+.rightporion{
+  position: relative;
+}
+.right{
+  width: 612px;
+  height: 185px;
+  background-color:#F6F6F6 ;
+  border-radius: 12px;
+  box-sizing: content-box;
+}
+.middlepart{
+  position: absolute;
+  top: 92px;
+  width: 612.0000000000023px;
+}
+
+ .toppart,.downpart{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flexes{
+  width: 516px;
+  height: 172px;
+  position: relative;
+  left: 48px;
+  top: 7px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.toppart div,.downpart div{
+  padding: 17px ;
+  height: 44px;
+}
+#one{
+  padding-left: 0px;
+  width: 138px;
+}
+.two{
+  width: 89px;
+}
+.colm1,.colm2{
+  position: absolute;
+  width: 172px;
+  top: 80px;
+  left: 80px;
+  rotate: 90deg;
+}
+.colm2{
+  left: 270px;
+}
+.flexes p{
+  font-family: 'Causten';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: .02px;
+}
+.metrl{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.meterials{
+  color: #807D7E;
+}
+.meterial{
+  font-weight: 500;
+}
+#similarproductflex{
+  left: -2px;
+  display: flex;
+  gap: 36px;
+  margin: 0px;
+}
+.griditem{
+  display: flex;
+  flex-direction: column;
+  gap: 14.52px;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+}
+.wishlistbutton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top:26.73px ;
+  left:228.95px ;
+  width: 32.36px;
+  height: 32.36px;
+  border-radius: 100%;
+  border: none;
+  background-color: #FFFFFF;
+}
+.like{
+  width: 13.75px;
+  height: 12.22px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  color: #3C4242;
+}
+.prodescription{
+  display: flex;
+}
+.lpinfo{
+  font-size:16px ;
+  font-weight:600 ;
+  font-family:'Causten' ;
+  line-height: 19.2px;
+  color:#3C4242 ;
+}
+.brandname{
+  font-size: 14px;
+  font-weight:500 ;
+  font-family:'Causten' ;
+  line-height: 16.8px;
+  color:#807D7E ;
+}
+.price{
+  position: absolute;
+  right: 0px;
+  width: 82.31px;
+  height: 36.58px;
+  border-radius: 8px;
+  border: none;
+  background-color: #F6F6F6;
+  font-family: 'Causten';
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16.8px;
+  text-align: center;
+}
+footer .padding{
+  min-height:900px;
+  background-color: #3C4242; 
+  color: #F6F6F6;
+}
+footer .padding{
+  box-sizing: inherit;
+}
+footer a{
+  color: #F6F6F6;
+}
+.innerbox{
+  padding-left: 10px;
+  position: relative;
+}
+.links{
+  display: flex;
+  padding-left: 76px;
+  gap: 80px;
+}
+.sec h5,footer h1,.download,.populars p{
+  font-family: 'Causten';
+  font-size: 28.58px;
+  font-weight: 700;
+  line-height: 61.99px;
+}
+.sec p{
+  font-family: 'Causten';
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 39.04px;
+}
+footer .download{
+  position: absolute;
+  left: 751px;
+  top: 280px;
+}
+.sec,.innersec{
+  display: flex;
+  flex-direction: column;
+}
+.sec{
+  gap: 15px;
+}
+.innersec{
+  justify-content: space-between;
+}
+#help{
+  height: 292px;
+  width: 142px;
+}
+#company{
+  height: 292px;
+  width: 121px;
+}
+#moreinfo{
+  height: 248px;
+  width: 162px;
+}
+#location{
+  height: 204px;
+  width: 394px;
+}
+#help .innersec,#company .innersec{
+ height: 215px;
+}
+#moreinfo #innersec{
+  height: 171px;
+}
+#location .innersec{
+  height: 127px;
+}
+.app,.playstore,.applestore{
+  display: flex;
+  padding: 9.14px 8.67px;
+  box-sizing: border-box;
+}
+.app{
+  position: absolute;
+  left: 746px;
+  top: 361px;
+  gap: 21.24px;
+}
+.playstore,.applestore{
+  gap: 3.56px;
+  background-color: #404040;
+  border-radius: 12px;
+}
+.playstoreicon,.playstoreicon img{
+  width: 29.65px;
+  height: 32.98px;
+}
+.googleplay{
+  padding-left: 6px;
+}
+.googleplay p,.googleplay .appname,.apple p{
+  font-family: 'Causten';
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+}
+.googleplay .appname,.applestore .appname{
+  font-size: 18px;
+  line-height: 21.6px;
+}
+.appstoreicon,.applestore img{
+  width: 20.62px;
+  height: 31.63px;
+}
+.applestore{
+  gap: 10.43px;
+}
+.social{
+  position: absolute;
+  left: 83px;
+  top: 369px;
+  display: flex;
+  gap: 9.97px;
+}
+.social div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 37.02px;
+  height: 37.02px;
+  background-color: #F6F6F6;
+  border-radius: 10.68px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.Populardiv{
+  width: auto;
+  border-bottom: 1px solid #BEBCBD;
+  border-top: 1px solid #BEBCBD;
+}
+.topdown{
+  position: absolute;
+  top: 456px;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+.popularflex{
+  position: relative;
+  padding: 29px 76px;
+}
+.dropdownbutton{
+  position: absolute;
+  left: 1187.81px;
+  top: 48px;
+  background-color: transparent;
+  border: none;
+}
+.dropdownlist{
+  display: none;
+} 
+.Popular{
+  font-family: 'Causten';
+  font-size: 28.58px;
+  font-weight: 700;
+  line-height: 57.16px;
+}
+ .Copyright{
+  padding-top: 39px;
+  display: flex;
+  justify-content: center;
+  font-family: 'Causten';
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+ }
+
+ ul li a:active,ul li a:hover{
+  color: #3C4242; 
+  font-weight: 700;
+ }
+
+.facebook:hover{
+  background-color: #1877F2;
+}
+.insta:hover{
+  background: linear-gradient(5deg, #833AB4, #E1306C, #FD1D1D, #F77737, #FFC837);
+}
+.twitter:hover{
+  background-color: #1DA1F2;
+}
+.linkedin:hover{
+  background-color: #0077B5;
+}

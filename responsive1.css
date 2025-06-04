@@ -1,0 +1,2451 @@
+@media(max-width: 1435px){
+  .rightimage,.leftimage {
+    width: 610px;
+    height: 610px;
+  }
+  .newArrivalitemsSlide{
+    gap: 18px;
+  }
+  #newArrivals,#limelightflex,#similarproductflex{
+    gap: 30px;
+  }
+  #imagegrid, #Womensitems{
+    gap: 40px;
+  }
+  .brandbody{
+    padding: 43.84px 50.98px 53.88px;
+  }
+}
+@media(max-width: 1420px){
+  #slideright{
+    left: 1335px;
+  }
+  .rightimage,.leftimage,.sec1,.sec2 {
+    width: 590px;
+  }
+  #limelightflex,#Womensitems{
+    gap: 30px;
+  }
+  .dropdownbutton{
+    left: 1100px;
+  }
+  #limelightflex,#newArrivals,#similarproductflex{
+    gap: 22px;
+  }
+  #imagegrid{
+    gap: 35px;
+  }
+}
+@media(max-width: 1400px){
+  .sec1, .sec2,.rightimage, .leftimage  {
+    width: 570px;
+  }
+  .newArrivalitemsSlide {
+    gap: 12px;
+  }
+  #imagegrid {
+    gap: 30px;
+  }
+  #limelightflex,#similarproductflex{
+    gap: 20px;
+  }
+}
+@media(max-width:1385px){
+  #limelightflex,#similarproductflex{
+    gap: 15px;
+  }
+}
+@media(max-width:1375px){
+  #imagegrid,#Womensitems{
+    gap: 22px;
+  }
+  #limelightflex,#similarproductflex{
+    gap: 10px;
+  }
+  #slideright {
+    left: 1300px;
+  }
+}
+@media(max-width:1365px){
+  #newArrivals {
+    gap: 15px;
+  }
+  .newArrivalitemsSlide {
+    gap: 10px;
+  }
+  #similarproductflex{
+    gap: 5px;
+  }
+  #imagegrid {
+    gap: 18px;
+  }
+}
+@media(max-width:1355px){
+  #Womensitems{
+    gap: 15px;
+  }
+  #limelightflex {
+    gap: 5px;
+  }
+}
+@media(max-width:1345px){
+  .sec1, .sec2 {
+    width: 550px;
+  }
+  .newArrivalitemsSlide {
+    gap: 5px;
+  }
+  #newArrivals {
+    gap: 12px;
+  }
+  #limelightflex,#similarproductflex {
+    gap: 3px;
+  }
+  #imagegrid {
+    gap: 13px;
+  }
+  .rightimage, .leftimage {
+    width: 580px;
+    height: 570px;
+  }
+}
+@media(max-width:1340px){
+  .padding{
+    padding: 50px 75px;
+  }
+  #slideright {
+    left: 1250px;
+  }
+  #newArrivals {
+    gap: 30px;
+  }
+  #limelightflex {
+   gap: 18px;
+  }
+  #similarproductflex{
+    gap: 15px;
+  }
+  .dropdownbutton {
+    left: 1100px;
+  }
+}
+@media(max-width:1330px){
+  #newArrivals {
+    gap:18px;
+  }
+  .newArrivalitemsSlide {
+    gap: 15px;
+  }
+  .rightimage, .leftimage {
+    width: 580px;
+  }
+  #limelightflex,#similarproductflex {
+    gap: 10px;
+  }
+  .slidebar {
+    left: 600px;
+  }
+}
+@media(max-width:1320px){
+  .optncap {
+    font-size: 15px;
+}
+}
+@media(max-width:1310px){
+  .newArrivalitemsSlide {
+    gap: 10px;
+  }
+  #newArrivals {
+    gap: 12px;
+  }
+  .rightimage, .leftimage {
+    width: 560px;
+    height: 560px;
+  }
+  #imagegrid, #Womensitems,#similarproductflex{
+    gap: 8px;
+  }
+  #limelightflex {
+    gap: 5px;
+  }
+}
+@media(max-width:1300px){
+  .container {
+    padding: 31px 75px;
+  }
+  .padding{
+    padding: 50px;
+  }
+  .rightimage, .leftimage {
+    width: 590px;
+  }
+  #imagegrid, #Womensitems,#newArrivals {
+    gap: 28px;
+  }
+  #similarproductflex{
+    gap: 20px;
+  }
+  .wishlistbutton{
+    left: 220.95px;
+  }
+}
+@media(max-width:1290px){
+  #slideright {
+    left: 1200px;
+  }
+  .slidebar {
+    left: 580px;
+  }
+  #limelightflex {
+    gap: 10px;
+  }
+  #similarproductflex{
+    gap: 18px;
+  }
+}
+@media(max-width:1280px){
+  #newArrivals,#imagegrid, #Womensitems {
+    gap: 23px;
+  }
+  .rightimage, .leftimage {
+    width: 580px;
+  }
+  #similarproductflex{
+    gap: 10px;
+  }
+  .option {
+    gap: 12px;
+  }
+}
+@media(max-width:1270px){
+  .options {
+    gap: 50px;
+  }
+  #optn2 {
+    padding-top: 20px;
+    gap: 70px;
+  }
+}
+@media(max-width:1260px){
+  #imagegrid, #Womensitems {
+    gap: 18px;
+  }
+  #newArrivals{
+    gap: 10px;
+  }
+  .rightimage, .leftimage {
+    width: 570px;
+  }
+  .slidebar{
+    left: 560px;
+  }
+  #limelightflex,#similarproductflex {
+    gap: 5px;
+  }
+  .optncap{
+    font-size: 15px;
+  }
+  #optn2 {
+    padding-top: 20px;
+    gap: 50px;
+  }
+  .options {
+    gap: 30px;
+  }
+}
+@media(max-width:1240px){
+  #imagegrid, #Womensitems {
+      gap: 10px;
+  }
+  .rightimage, .leftimage {
+    width: 560px;
+  }
+  #slideright {
+    left: 1150px;
+  }
+  .image{
+    width: 253px;
+  }
+  #newArrivals{
+    gap: 20px;
+  }
+  #limelightflex .gimg,#similarproductflex .gimg{
+    width: 270px;
+  }
+  .dropdownbutton {
+    left: 1000px;
+  }
+  #similarproductflex{
+    gap: 12px;
+  }
+}
+@media(max-width:1230px){
+    .option{
+      gap: 5px;
+    }
+}
+@media(max-width:1220px){
+  #imagegrid, #Womensitems {
+    gap: 4px;
+  }
+  #newArrivals {
+    gap: 14px;
+  }
+  .rightimage, .leftimage {
+    width: 550px;
+  }
+  .sec1, .sec2 {
+    width: 515px;
+  }
+  #similarproductflex{
+    gap: 8px;
+  }
+  .navigate ul{
+    gap: 30px;
+  }
+  .option{
+    gap: 12px;
+  }
+  .optnicon{
+    height: 33px;
+    width: 33px;
+  }
+}
+@media(max-width:1200px){
+  #slideright {
+    left: 1100px;
+  }
+  .sec2head{
+    font-size: 30px;
+  }
+  .newArrivalitemsSlide, #newArrivals{
+    gap: 5px;
+    justify-content: center;
+  }
+  #newArrivals {
+    gap: 10.58px;
+  }
+  .image {
+    width: 220px;
+    height: 220px;
+  }
+  .proinfo{
+    font-size: 18px;
+  }
+  .rightimage, .leftimage {
+    width: 540px;
+    height: 550px;
+  }
+  .advcaption{
+    width: 400px;
+    top: 160px;
+    left: 50px;
+  }
+  #limelightflex,#similarproductflex {
+    gap: 95px;
+  }
+  .newArrivalSection .padding,.forwomen .padding,.limelight .padding{
+    padding: 50px 100px;
+  }
+  #imagegrid, #Womensitems,#limelightflex,#similarproductflex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #Womensitems{
+    gap: 100.58px;
+  }
+  .slide{
+    width: 260px;
+  }
+  .productoverview{
+    height: auto;
+  }
+  .navigate ul a li{
+    font-size: 16px;
+  }
+}
+@media(max-width:1190px){
+ .navbuttons ul{
+  gap: 20px;
+  }
+}
+@media(max-width:1180px){
+  .leftimage,.rightimage{
+    width: 530px;
+  }
+  .advcaption {
+    width: 430px;
+    top: 130px;
+    left: 50px;
+  }
+  .links{
+    gap: 40px;
+    padding-left: 60px;
+  }
+  .brandimages{
+    gap: 15px;
+  }
+  .section2 {
+    padding-top: 70px;
+  }
+  .right{
+    width: 590px;
+  }
+  .productdetails{
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .toppart div, .downpart div{
+    padding: 12px;
+  }
+  .right,.middlepart {
+    width: 560px;
+  }
+  .flexes{
+    width: 500px;
+    left: 24px;
+  }
+  .middlepart {
+    top: 88px;
+  }
+}
+@media(max-width:1160px){
+  .slidebar {
+    left: 540px;
+  }
+  .newArrivalSection .padding{
+    padding: 50px 75px;
+  }
+  .brandimages {
+    gap: 10px;
+  }
+  .leftimage, .rightimage {
+    width: 520px;
+  }
+  .app,footer .download{
+    left: 650px;
+  }
+  .description .padding {
+    gap: 20px;
+  }
+  .feedback{
+    gap: 15px;
+  }
+  .feedbacks p{
+    line-height: 14.8px;
+  }
+}
+@media (max-width:1140px) {
+  .search{
+    width: 250px;
+  }
+  .container {
+    padding: 31px 50px;
+  }
+  .spotleft{
+    top: 217px;
+    left: 153px;
+    height: 400px;
+    width: 400px;
+  }
+  .content.two {
+    width: 254px;
+    height: 213.24px;
+  }
+  .content{
+    top: 40px;
+  }
+  .bg1 {
+    height: 650px;
+  }
+  .spothead {
+    font-size: 60px;
+  }
+  .spottop.spotbottom{
+    font-size: 28px;
+  }
+  #spotbutton {
+    width: 200px;
+    height: 55px;
+    padding: 16px 55px;
+    font-size: 20px;
+  }
+  #slideright {
+    left: 1050px;
+  }
+  .slidebar{
+    top: 680px;
+    left: 500px;
+  }
+  .sec1, .sec2 {
+    width: 500px;
+    height: 300.2px;
+  }
+  .leftimage, .rightimage {
+    width: 510px;
+    height: 500px;
+  }
+  .slide {
+    width: 220px;
+    height: 700px;
+  }
+  .mainimage {
+    width: 480px;
+    height: 700px;
+  }
+  .productinformations {
+    gap: 28px;
+  }
+  .navigate ul{
+    gap: 20px;
+  }
+  .dropdownbutton {
+    left: 900px;
+  }
+}
+@media(max-width:1120px){
+  .brandimages {
+    gap: 5px;
+  }
+}
+@media(max-width:1110px){
+  .leftimage, .rightimage {
+    width: 500px;
+  }
+  .sec1, .sec2 {
+    width: 480px;
+  }
+  .brandimages{
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+  }
+  .links {
+    gap: 20px;
+    padding-left: 40px;
+  }
+}
+@media(max-width:1100px){
+  .leftimage, .rightimage {
+    width: 480px;
+  }
+  .add, .pricebutton {
+    padding: 12px 35px;
+  }
+  #similarproductflex{
+    gap: 50px;
+  }
+  .newArrivalSection .padding{
+    padding: 50px;
+  }
+}
+@media(max-width:1090px){
+  #slideright {
+    left: 1000px;
+  }
+  .section2 {
+    padding-top: 50px;
+  }
+  .slidebar {
+    left: 470px;
+  }
+  .navbuttons ul {
+    gap: 15px;
+  }
+  .search {
+    width: 200px;
+  }
+  .right,.middlepart{
+    width: 520px;
+  }
+  .flexes {
+    width: 460px;
+    left: 20px;
+  }
+  .middlepart {
+    top: 88px;
+  }
+  .colm1 {
+    left: 60px;
+  }
+  .colm2 {
+    left: 230px;
+  }
+  .navigate ul,.description .padding {
+    gap: 10px;
+  }
+}
+@media(max-width:1075px){
+  .option{
+    gap: 5px;
+  }
+}
+@media(max-width:1065px){
+  .sec1, .sec2 {
+    width: 470px;
+  }
+  .container {
+    padding: 21px 50px;
+  }
+  .leftimage,.rightimage{
+    width: 450px;
+  }
+  .app{
+    gap: 12px;
+    left: 630px;
+  }
+}
+@media(max-width:1050px){
+  #newArrivals{
+    gap: 6px;
+  }
+  .feedbacks p{
+    font-size: 12px;
+    line-height: 16px;
+  }
+}
+@media(max-width:1040px){
+  .navbuttons ul {
+    gap: 15px;
+    font-size: 18px;
+  }
+  .navitems, .search {
+    gap: 10px;
+  }
+  .spotleft {
+    top: 200px;
+    left: 100px;
+    height: 350px;
+  }
+  .spothead {
+    font-size: 50px;
+    line-height: 83px;
+  }
+  .spottop,.spotbottom {
+    font-size: 32px;
+    font-weight: 400;
+  }
+  #spotbutton {
+    width: 180px;
+    height: 50px;
+    padding: 12px 45px;
+    font-size: 18px;
+  }
+  #slideright {
+    left: 930px;
+  }
+  .slidebar {
+    left: 440px;
+    top: 620px;
+  }
+  .bg1 {
+    height: 600px;
+  }
+  #slideleft,#slideright{
+    top: 340px;
+  }
+  .section2 {
+    padding-top: 0px;
+  }
+  .padding{
+    padding: 50px 75px;
+  }
+  .section2 .padding,.newArrivalSection .padding {
+    padding: 50px 25px;
+  }
+  .app, footer .download {
+    gap: 12px;
+    left: 550px;
+  }
+  .dropdownbutton {
+    left: 800px;
+  }
+  .advertisment .padding,.description .padding{
+    padding: 50px;
+  }
+  #lastcmnt{
+    display: none;
+  }
+  .links {
+    padding-left: 20px;
+  }
+  .sec h5,.download,.Popular{
+    font-size: 25px;
+  }
+  .sec p,.googleplay .appname, .applestore .appname { 
+    font-size: 15px;
+  }
+  .googleplay p, .apple p {
+    font-size: 9px;
+  }
+  .social{
+    gap: 6px;
+  }
+  .slide {
+    width: 200px;
+  }
+  #similarproductflex {
+    gap: 30px;
+  }
+  .feedbacks p {
+    font-size: 14px;
+    line-height: 16.8px;
+  }
+}
+@media(max-width:1020px){
+  #similarproductflex {
+    gap: 5px;
+  }
+  #optn2 {
+    padding-top: 10px;
+  }
+  .productinformations {
+    gap: 25px;
+  }
+  .productTitle{
+    line-height: 42px;
+  }
+  .colorsection,.sizecollections{
+    gap: 20px;
+  }
+  .gallary{
+    width: 65.6px;
+    height: 65.6px;
+  }
+  #gallarymid, .gallary:hover, .gallary:active{
+    width: 72.6px;
+    height: 72.6px;
+  }
+  .slide,.mainimage,.productinformations {
+    height: 650px;
+  }
+}
+@media(max-width:1010px){
+  .right, .middlepart {
+    width: 480px;
+  }
+  .flexes {
+    width: 420px;
+    left: 20px;
+  }
+  .middlepart {
+    top: 88px;
+  }
+}
+@media(max-width:1000px){
+  .sec1, .sec2 {
+    width: 450px;
+  }
+  .leftimage, .rightimage {
+    width: 440px;
+  }
+  .dropdownbutton {
+    left: 750px;
+  }
+  .mainimage {
+    width: 420px;
+  }
+  .slide,.productinformations,.mainimage{
+    height: 600px;
+  }
+  .options,#optn2 {
+    padding-top: 0px;
+  }
+  .productinformations {
+    gap: 20px;
+    padding-top: 20px;
+  }
+}
+@media(max-width:990px){
+  #newArrivals {
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .newArrivalSection .padding {
+    padding: 50px 75px;
+  }
+  .newArrivalitemsSlide{
+    gap: 25px;
+  }
+  .image {
+    width: 253px;
+    height: 253px;
+  }
+}
+@media(max-width:980px){
+  .leftimage, .rightimage {
+    width: 430px;
+  }
+  .advcaption {
+    width: 400px;
+    top: 100px;
+  }
+  .app, footer .download {
+    gap: 12px;
+    left: 500px;
+  }
+  .dropdownbutton {
+    left: 700px;
+  }
+  .links {
+    padding-left: 0px;
+  }
+  .social,.advcaption{
+    left: 50px;
+  }
+  #slideright {
+    left: 890px;
+  }
+}
+@media(max-width:970px){
+  .description .padding {
+    padding: 50px 25px;
+  }
+  .slide {
+    width: 180px;
+  }
+  .similarproducts .padding{
+      padding: 50px;
+  }
+  #similarproductflex {
+      gap: 10px;
+  }
+}
+@media(max-width:960px){
+  .advertisment .padding {
+    padding: 25px;
+  }
+  .leftimage, .rightimage {
+    width: 450px;
+  }
+  .sec1, .sec2 {
+    width: 440px;
+  }
+}
+@media(max-width:950px){
+  .leftimage, .rightimage {
+    width: 440px;
+  }
+  #Womensitems,#limelightflex {
+    gap: 40.58px;
+  }
+  .container2{
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  .section2 .padding {
+    padding: 50px 100px;
+  }
+  .leftimage, .rightimage {
+    width: 430px;
+    height: 430px;
+  }
+  .advcaption {
+    width:300px;
+    top: 50px;
+    left: 50px;
+  }
+  .advhead {
+    font-size: 34px;
+    line-height: 35px;
+  }
+  .advcap {
+    width: auto;
+    font-size: 20px;
+    line-height: 18px;
+  }
+  .app, footer .download {
+    gap: 8px;
+    left: 450px;
+  }
+  .dropdownbutton {
+    left: 650px;
+  }
+  #slideright {
+    left: 840px;
+  }
+  .subTitle {
+    margin-bottom: 50px;
+  }
+}
+@media(max-width:920px){
+  .right,.middlepart  {
+    width: 440px;
+  }
+  .middlepart {
+    top: 88px;
+  }
+  .flexes {
+    width: 380px;
+  }
+  .colm2 {
+    left: 180px;
+  }
+}
+@media(max-width:930px){
+  #optn2 {
+    padding-top: 5px;
+  }
+  .similarproducts .padding {
+    padding: 50px 25px;
+  }
+  #similarproductflex {
+    gap: 5px;
+  }
+}
+@media (max-width:910px) {
+  .navitems, .search {
+    gap: 5px;
+  }
+  .search {
+    width: 150px;
+  }
+  .leftimage, .rightimage {
+    width: 420px;
+    height: 420px;
+  }
+  .links,.productimage,.rating,.sizes {
+    gap: 10px;
+  }
+  #newArrivals {
+    gap: 40.58px;
+  }
+  .mainimage {
+    width: 400px;
+    height: 600px;
+  }
+  .productTitle{
+    font-size: 30px;
+  }
+  .comments{
+    gap: 20px;
+  }
+  .addtocart{
+    width: 350px;
+  }
+  .add, .pricebutton {
+    padding: 12px 30px;
+  }
+}
+@media (max-width:890px){
+  .container {
+    padding: 21px 25px;
+  }
+  #slideright {
+    left: 800px;
+  }
+  .slidebar {
+    left: 380px;
+  }
+  .leftimage, .rightimage {
+    width: 400px;
+    height: 400px;
+  }
+  footer .padding{
+    padding: 50px;
+  }
+  #newArrivals ,    #Womensitems, #limelightflex {
+    gap: 20.58px;
+  }
+  .slide, .productinformations,.mainimage {
+    height: 550px;
+  }
+  .productinformations {
+    gap: 15px;
+    padding-top: 10px;
+  }
+  .options{
+    gap: 40px;
+  }
+  #optn2 {
+    gap: 60px;
+  }
+  .mainimage{
+    width: 350px;
+  }
+}
+@media(max-width:880px){
+  .description .padding{
+    flex-direction: column;
+    align-items: center;
+    gap: 26px;
+  }
+  .description .padding {
+    padding: 50px 100px;
+  }
+  .navigate ul{
+    gap: 40px;
+  }
+  .productdetails {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .right {
+    width: 590px;
+  }
+  .flexes {
+    width: 500px;
+    left: 24px;
+  }
+  .middlepart {
+    width: 585px;
+  }
+  .colm1 {
+    left: 80px;
+  }
+  .colm2 {
+    left: 270px;
+  }
+}
+@media (max-width:870px ){
+  #similarproductflex {
+    gap: 30px;
+  }
+  .similarproducts .padding,.padding {
+    padding: 50px 75px;
+  }
+}
+@media (max-width:850px){
+  .leftimage, .rightimage {
+    width: 390px;
+    height: 350px;
+  }
+  .advhead {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .advcaption {
+    width: 300px;
+    top: 25px;
+    left: 25px;
+  }
+  #newArrivals{
+    gap:10px;
+  }
+  #slideright {
+    left: 750px;
+  }
+  .slidebar {
+    left: 350px;
+    top: 530px;
+  }
+  .bg1 {
+    height: 500px;
+  }
+  .spotleft {
+    top: 150px;
+    left: 100px;
+    height: 300px;
+  }
+  .spothead {
+    font-size: 50px;
+    line-height: 63px;
+  }
+  #slideleft, #slideright {
+    top: 300px;
+  }
+  .feedback {
+    gap: 10px;
+  }
+}
+@media(max-width:840px){
+  .newArrivalSection .padding, .forwomen .padding, .limelight .padding {
+    padding: 50px 75px;
+  }
+  .app, footer .download {
+    left: 400px;
+  }
+  footer .padding {
+    padding: 25px;
+  }
+  .productTitle {
+    font-size:28px;
+  }
+  .comments,.comment,.colorpalate {
+    gap: 10px;
+  }
+  .gallary img {
+    width: 58.04px;
+    height: 58.04px;
+  }
+  #gallarymid, .gallary:hover, .gallary:active {
+    width: 62.6px;
+    height: 62.6px;
+  }
+}
+@media(max-width:830px){
+  .leftimage, .rightimage {
+    width: 370px;
+  }
+  .Euphoria img,.Euphoria{
+    width: 80px;
+  }
+  .brandimages{
+    gap: 15px;
+  }
+  .brandhead {
+    font-size: 40px;
+    line-height: 30px;
+  }
+  .brandoff {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .brands{
+    width: 150.52px;
+    height: 75.55px;
+  }
+  .similarproducts .padding,.description .padding  {
+    padding: 50px 75px;
+  }
+  .fedbackflex {
+    gap: 16px;
+  }
+  .sizes,.colorpalate{
+    gap: 10px;
+  }
+  .size,.sizediv {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+  }
+  .colorpalate {
+    height: 25px;
+  }
+}
+@media(max-width:820px){
+  .options {
+    gap: 22px;
+  }
+  .addtocart {
+    width: 300px;
+  }
+  .add, .pricebutton {
+    padding: 12px 25px;
+  }
+  .productTitle{
+    width: auto;
+  }
+  .comment p,.rating p{
+    font-size: 16px;
+  }
+  .optncap {
+    font-size: 12px;
+  }
+  #optn2 {
+    gap: 40px;
+  }
+}
+@media(max-width:800px){
+  .options {
+    gap: 10px;
+  }
+  .rating {
+    gap: 5px;
+  }
+  #optn2 {
+    gap: 25px;
+}
+}
+@media(max-width:790px){
+  #searchbar,.search{
+    display: none;
+  }
+  #pfsearch{
+    display: inline;
+  }
+  .navitems{
+    width: auto;
+    gap: 10px;
+  }
+  .search {
+    height: 44px;
+    width: 44px;
+    padding: 12px;
+  }
+  #slideright {
+    left: 700px;
+  }
+  .slidebar {
+    left: 300px;
+  }
+  .newArrivalSection .padding, .forwomen .padding, .limelight .padding {
+    padding: 50px;
+  }
+  .leftimage, .rightimage {
+    width: 350px;
+  }
+}
+@media(max-width:770px){
+  .feedbacks p {
+    font-size: 14px;
+    line-height: 13.8px;
+  }
+}
+@media (max-width:760px) {
+  .navigate ul {
+    gap: 30px;
+  }
+  .productdetails {
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+  }
+  .description .padding,.productdetails{
+    justify-content: center;
+  }
+  .right,.middlepart{
+    width: 560px;
+  }
+  .flexes {
+    width: 500px;
+    left: 24px;
+  }
+}
+@media(max-width:750px){
+  .leftimage, .rightimage {
+    width: 340px;
+    height: 320px;
+  }
+  .sec h5, .download, .Popular {
+    font-size: 20px;
+  }
+  .sec p, .googleplay .appname, .applestore .appname {
+    font-size: 12px;
+  }
+  .dropdownbutton {
+    left: 620px;
+  }
+  #slideright {
+    left: 650px;
+  }
+  .dropdownlist,#spotbutton{
+    font-size: 15px;
+  }
+  #slideleft{
+    left: 20px;
+  }
+  .spotleft {
+    top: 150px;
+    left: 70px;
+    height: 300px;
+    width:350px
+  }
+  #spotbutton {
+    width: 130px;
+    height: 40px;
+    padding: 8px 25px;
+  }
+  .spothead {
+    font-size: 50px;
+    line-height: 53px;
+  }
+  .spottop, .spotbottom {
+    line-height: 20px;
+    font-size: 28px;
+    font-weight: 400;
+  }
+  .fedbackflex {
+    gap: 12px;
+  }
+}
+@media(max-width:740px){
+  .newArrivalitemsSlide {
+    gap: 32px;
+  }
+}
+@media(max-width:730px){
+  .leftimage,.rightimage{
+    width: 330px;
+    height: 300px;
+  }
+  .advcaption {
+    width: 300px;
+    top: 15px;
+    left: 15px;
+  }
+  .similarproducts .padding, .description .padding {
+    padding: 50px;
+  }
+  .option{
+    height: 35px;
+  }
+  .optnicon{
+    height: 44px;
+    width: 44px;
+  }
+  #optn2{
+    padding-top: 25px;
+    gap: 90px;
+  }
+  #advbutton {
+    width: 128px;
+    height: 36px;
+    padding: 6px 22px;
+  }
+  .advcap {
+    line-height: 20px;
+  }
+  .feedback {
+    padding: 13px;
+    gap: 15px;
+  }
+  .name {
+    font-size: 20px;
+    line-height: 15px;
+  }
+  .newArrivalitemsSlide {
+    gap: 22px;
+  }
+  .options{
+    gap: 5px;
+  }
+  .slide, .productinformations, .mainimage {
+    height: 500px;
+  }
+  .slide {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 70px;
+    flex-direction: row;
+  }
+  .productimage{
+    margin-top: 70px;
+    flex-wrap: wrap;
+  }
+  .productinformations {
+    gap: 10px;
+  }
+  .add, .pricebutton {
+    padding: 8px 20px;
+  }
+  .comments,.sizecollections {
+    gap: 25px;
+  }
+  .feedbacks p {
+    font-size: 14px;
+    line-height: 16.8px;
+  }
+  .sizes,.colorpalate {
+    gap: 20px;
+  }
+  .size {
+    width: 38px;
+    height: 38px;
+    border-radius: 12px;
+  }
+  .sizediv {
+    width: 42px;
+    height: 42px;
+  }
+  .colorpalate {
+    height: 30px;
+  }
+  .productinformations {
+    height: auto;
+    padding: 0px 50px;
+    width: 100%;
+  }
+  .options{
+    gap: 68px;
+  }
+  .optncap{
+    font-size: 18px;
+  }
+  .mainimage{
+    width: 100%;
+    object-fit: cover;
+  }
+}
+@media(max-width:710px){
+  .imageportion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .rightimage{
+    position: inherit;
+  }
+  .slidebar{
+    top: 480px;
+  }
+  .advcaption {
+    z-index: 4;
+    top: 115px;
+    left: 74px;
+    width: 466px;
+    height: 282px;
+  }
+  .advhead {
+    font-size: 34px;
+    font-weight: 800;
+    line-height: 50px;
+  }
+  .advcap {
+    width: 451px;
+    font-size: 20px;
+    line-height: 24px;
+    word-spacing: 1px;
+    padding-right: 15px;
+  }
+  #advbutton {
+    width: 168px;
+    height: 46px;
+    padding: 12px 44px;
+    font-size: 18px;
+    line-height: 21.6px;
+  }
+  .rightimage, .leftimage {
+    width: 590px;
+    height: 500px;
+
+  }
+  .rightimage{
+    top: -10px;
+    border-radius:12px ;
+  }
+  .leftimage{
+    z-index: 1;
+    border-radius:12px 12px 0px 0px ;
+  }
+  .app, footer .download {
+    left: 350px;
+  }
+  .dropdownbutton {
+    left: 550px;
+  }
+  .padding {
+    padding: 50px;
+  }
+  #newArrivals, #Womensitems, #limelightflex,#imagegrid {
+    gap: 10px;
+  }
+  .newArrivalSection .padding, .forwomen .padding, .limelight .padding {
+    padding: 50px 25px;
+  }
+  .section2 .padding {
+    padding: 50px 75px;
+  }
+}
+@media(max-width:690px){
+  .search,.profileitems {
+    height: 33px;
+    width: 33px;
+    padding: 8.5px;
+  }
+  #slideright {
+    left: 600px;
+  }
+  .slidebar {
+    left: 250px;
+  }
+}
+@media(max-width:680px){
+  #similarproductflex .gimg {
+    width: auto;
+  }
+}
+@media(max-width:660px){
+  .app, footer .download {
+    left: 300px;
+  }
+  .padding {
+    padding: 50px 25px;
+  }
+  .newArrivalitemsSlide {
+    gap: 12px;
+  }
+  .Euphoria img, .Euphoria {
+    width: 70px;
+  }
+  .navbuttons ul {
+    gap: 10px;
+    font-size: 16px;
+  }
+}
+@media(max-width:650px){
+  .right,.middlepart{
+    width: 520px;
+  }
+  .flexes {
+    width: 460px;
+    left: 20px;
+  }
+  .middlepart {
+    top: 88px;
+  }
+  .colm1 {
+    left: 60px;
+  }
+  .colm2 {
+    left: 230px;
+  }
+}
+@media(max-width:640px){
+  .popularflex {
+    position: relative;
+    padding: 29px;
+  }
+  .newArrivalitemsSlide ,#newArrivals{
+    gap: 5px;
+  }
+  .social{
+    left: 0px;
+  }
+  .app, footer .download {
+    left: 250px;
+  }
+  .dropdownbutton {
+    left: 450px;
+  }
+  #slideright {
+    left: 560px;
+  }
+  .slidebar{
+    top: 440px;
+  }
+  .spotleft {
+    height: 250px;
+    width: 300px;
+  }
+  .spottop, .spotbottom {
+    line-height: 18px;
+    font-size: 26px;
+  }
+  .Copyright{
+    font-size: 15px;
+  }
+  #slideleft, #slideright {
+    top: 280px;
+  }
+  .links {
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+  }
+  footer .padding {
+    padding: 50px;
+    min-height: 1000px;
+  }
+  footer .download {
+    top: 550px;
+  }
+  .app,.social {
+    top: 600px;
+  }
+  .topdown {
+    position: absolute;
+    top:680px;
+  }
+  .rightimage, .leftimage {
+    width: 560px;
+    height: 500px;
+  }
+}
+@media(max-width:620px){
+  .newarrivalitem {
+    gap: 12.67px;
+  }
+  .newArrivalitemsSlide{
+    gap: 36px;
+  }
+  .newArrivalSection .padding, .forwomen .padding, .limelight .padding,.padding  {
+    padding: 50px 75px;
+  }
+  .feedbacksection .padding{
+    padding: 50px 25px;
+  }
+  .griditem{
+    gap: 5px;
+  }
+  .leftimage,.rightimage{
+    width: 540px;
+  }
+  .applestore {
+    gap:3px;
+  }
+  .app, .playstore, .applestore {
+    padding: 3px;
+  }
+  .right,.middlepart {
+    width: 480px;
+  }
+  .flexes {
+    width: 390px;
+    left: 18px;
+  }
+  .middlepart {
+    top: 88px;
+  }
+  .colm2 {
+    left: 190px;
+  }
+  .flexes p{
+    font-size: 14px;
+  }
+  .colm1 {
+    left: 50px;
+  }
+  #one {
+    padding-left: 0px;
+    width: 118px;
+  }
+  .addtocart {
+    width: 250px;
+  }
+  .add, .pricebutton {
+    padding: 8px 10px;
+    gap: 10px;
+  }
+}
+@media(max-width:610px){
+  #similarproductflex {
+    gap: 10px;
+  }
+}
+@media(max-width:600px){
+  #slideright {
+    left: 540px;
+  }
+  .slidebar {
+    left: 200px;
+  }
+  .links {
+    gap: 10px;
+  }
+}
+@media(max-width:590px){
+  .similarproducts .padding{
+    padding: 50px 25px;
+  }
+  .feedbacks p {
+    font-size: 12px;
+    line-height: 16.8px;
+  }
+}
+@media(max-width:580px){
+  .slidebar{
+    top: 420px;
+  }
+  .navbuttons ul{
+    display: none;
+  }
+  .fa-bars{
+    display: flex;
+  }
+  #menuList{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    background-color: #fcf7f7;
+    z-index: 10;
+    width:100px;
+    padding-left: 20px;
+    height: auto;
+  }
+  .container{
+    padding: 21px 50px;
+  }
+  .leftimage, .rightimage {
+    width: 500px;
+  }
+  .advcaption{
+    top: 75px;
+    left: 74px;
+    width: 400px;
+  }
+  .advhead {
+    font-size: 30px;
+  }
+  .brandbody {
+    padding: 43.84px 40.98px 53.88px;
+  }
+  .brands {
+    width: 149px;
+    height: 75.55px;
+  }
+  .dropdownbutton {
+    left: 400px;
+  }
+  .app, footer .download {
+    left: 225px;
+  }
+  footer .padding {
+    padding: 25px;
+  }
+  #location {
+    width: auto;
+  }
+  #slideright {
+    left: 500px;
+  }
+  .bg1 {
+    height: 480px;
+  }
+  #slideleft, #slideright {
+    top: 240px;
+  }
+  .spottop, .spotbottom {
+    font-size: 24px;
+  }
+  .sec1, .sec2 {
+    height: 250.2px;
+    width: 400px;
+  }
+  .content.one p.lowprice {
+    padding-bottom: 14.25px;
+  }
+  .content.one p.sec2offer {
+    padding-bottom: 20.52px;
+  }
+  .content {
+    top: 20px;
+  }
+  .content.two {
+    height: 200px;
+  }
+  .description .padding{
+    padding: 50px 25px;
+  }
+  .forwomen .padding{
+    padding: 50px;
+  }
+  .options {
+    gap: 40px;
+  }
+  #optn2 {
+    gap: 60px;
+  }
+}
+@media(max-width:550px){
+  #seclastfeed{
+    display: none;
+  }
+  .feedbacksection .padding {
+    padding: 50px 75px;
+  }
+  .leftimage, .rightimage {
+    width: 480px;
+    height: 400px;
+  }
+  .newArrivalitemsSlide,.feedback {
+    gap: 20px;
+  }
+  .section2 .padding,.padding {
+    padding: 50px;
+  }
+  .advcap {
+    width: auto;
+  }
+  .advcaption {
+    top: 45px;
+    left: 45px;
+    width: 400px;
+  }
+  .feedbacks p {
+    font-size: 14px;
+    line-height: 16.8px;
+  }
+  .feedback{
+    padding: 23.19px;
+  }
+  .optncap {
+    font-size: 15px;
+  }
+}
+@media(max-width:540px){
+   #slideright {
+    left: 480px;
+  }
+  .leftimage, .rightimage {
+    width: 460px;
+  }
+  .slidebar {
+    top: 400px;
+  }
+  .spotleft {
+    top: 130px;
+    left: 50px;
+  }
+  .spothead {
+    font-size: 45px;
+    line-height: 53px;
+  }
+  #slideleft {
+    left: 10px;
+  }
+}
+@media(max-width:530px){
+  .right,.middlepart {
+    width: 420px;
+  }
+  .subHead {
+    font-size: 30px;
+  }
+}
+@media(max-width:510px){
+  .bg1 {
+    height: 420px;
+  }
+  #slideright {
+    left: 450px;
+  }
+  .spotleft {
+    height: 200px;
+    width: 260px;
+  }
+  .slidebar {
+    top:380px;
+  }
+  .spottop, .spotbottom {
+    font-size: 20px;
+  }
+  .leftimage, .rightimage {
+    width: 440px;
+  }
+  .brandhead {
+    font-size: 38px;
+    line-height: 26px;
+  }
+}
+@media(max-width:500px){
+  .newArrivalSection .padding, .forwomen .padding, .limelight .padding {
+    padding: 50px;
+  }
+  .section2 .padding, .padding {
+    padding: 25px;
+  }
+  .options {
+    gap: 34px;
+  }
+  .description .padding{
+    gap: 16px;
+  }
+  #optn2{
+    gap: 50px;
+  }
+}
+@media(max-width:490px){
+  .feedbacksection .padding {
+    padding: 50px;
+  }
+  #moreinfo {
+    width: auto;
+  }
+  .options {
+    gap: 15px;
+  }
+  #optn2{
+    gap: 30px;
+  }
+  .links{
+    justify-content: flex-start;
+  }
+  .app, footer .download {
+    left: 200px;
+  }
+  .social div{
+    width: 30px;
+    height: 30px;
+  }
+  .dropdownbutton {
+    left: 340px;
+  }
+  #slideright {
+    left: 400px;
+  }
+  .leftimage, .rightimage {
+    width: 420px;
+  }
+  .advcaption {
+    width: 350px;
+  }
+  .advhead{
+    line-height: 40px;
+  }
+  .slidebar {
+    top: 350px;
+  }
+  #slideleft, #slideright {
+    top: 200px;
+  }
+}
+@media(max-width:470px){
+  .app, footer .download {
+    left: 180px;
+  }
+  .brandbody {
+    padding: 43.84px 35.98px 53.88px;
+  }
+  .right,.middlepart {
+    width: 380px;
+  }
+  .toppart div, .downpart div {
+    padding: 6px;
+  }
+  .flexes {
+    width: 340px;
+    left: 10px;
+    height: 150px;
+  }
+  .two {
+    width: 69px;
+  }
+  .flexes p {
+    font-size: 12px;
+  }
+  .optncap {
+    font-size: 15px;
+  }
+  .navigate ul,.subTitle {
+    gap: 20px;
+  }
+  .colm1 {
+    left: 40px;
+  }
+  .colm2 {
+    left: 140px;
+  }
+  .leftimage, .rightimage {
+    width: 410px;
+  }
+  .subHead {
+    font-size: 28px;
+  }
+  .productinformations {
+    padding: 0px 25px;
+  }
+}
+@media(max-width:460px){
+  .leftimage, .rightimage {
+    width: 405px;
+  }
+}
+@media(max-width:450px){
+  .app, footer .download {
+    left: 160px;
+  }
+  .links {
+    gap: 5px;
+  }
+  .spothead {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .sec1, .sec2,.leftimage, .rightimage {
+    width: 390px;
+  }
+  .navigate ul {
+    gap: 10px;
+  }
+  .navigate ul a li {
+    font-size: 12px;
+  }
+  .forwomen .padding,.limelight .padding,.feedbacksection .padding{
+    padding: 50px 25px;
+  }
+}
+@media(max-width:440px){
+  .feedback {
+    gap: 15px;
+  }
+  .brandbody {
+    padding: 43.84px 30px 53.88px;
+  }
+  .brandimages {
+    gap: 10px;
+  }
+  .sec1, .sec2,.leftimage, .rightimage  {
+    width: 380px;
+  }
+  .content.two {
+    width: 220px;
+  }
+  .sec2head {
+    font-size: 28px;
+  }
+  .content{
+    left: 20px;
+  }
+  .advcaption{
+    left: 30px;
+  }
+  .Copyright {
+    font-size: 12px;
+    padding-top: 20px;
+  }
+  .links {
+    gap: 7px;
+  }
+}
+@media(max-width:430px){
+  .spothead {
+    font-size: 30px;
+    line-height: 43px;
+  }
+  #slideright {
+    left: 370px;
+  }
+  .sec2head {
+    font-size: 24px;
+  }
+  .lowprice,.content a{
+    font-size: 14px;
+  }
+  .slidebar {
+    left: 150px;
+    top: 320px;
+  }
+  #spotbutton,#advbutton {
+    width: 90px;
+    height: 30px;
+    padding: 8px 15px;
+    font-size: 12px;
+    line-height: 18.8px;
+  }
+  .spottop, .spotbottom  {
+    font-size: 15px;
+  }
+  .advcaption {
+    height: 240px;
+    width: 300px;
+    top: 25px;
+    left: 25px;
+  }
+  .advhead {
+    line-height: 30px;
+    font-size: 25px;
+  }
+  .advcap{
+    font-size: 18px;
+    line-height: 18px;
+  }
+  .leftimage,.rightimage,.gimg{
+    height: 300px;
+  }
+  .arrowButton {
+    right: 0px;
+    top: 320px;
+  }
+  .leftimage,.rightimage,.sec1, .sec2{
+    width: 350px;
+  }
+  .padding{
+    padding: 50px;
+  }
+  .links {
+    gap: 5px;
+  }
+  footer .padding{
+    height: 1400px;
+  }
+  .playstoreicon, .playstoreicon img,.appstoreicon, .applestore img  {
+    width: 20.65px;
+    height: 27.98px;
+  }
+  .popularflex {
+    padding: 18px;
+  }
+  .dropdownbutton {
+    left: 300px;
+  }
+  #limelightflex .gimg,#similarproductflex {
+    width: auto;
+  }
+  .wishlistbutton {
+    left: 190px;
+  }
+  .brands,.brands img {
+    width: 120px;
+    height: 65.55px;
+    border-radius: 6px;
+    object-fit: contain;
+  }
+  .subHead{
+    font-size: 28px;
+  }
+  .subTitle{
+    gap: 20px;
+  }
+  .padding {
+    padding: 50px 25px;
+  }
+}
+@media(max-width:428px){
+  .app, .social {
+    top: 850px;
+  }
+  footer .download {
+    top: 780px;
+  }
+  .topdown {
+    top: 900px;
+  } 
+  .productinformations{
+    padding: 0px 25px;
+  }
+  .right, .middlepart {
+    width: 360px;
+  }
+  .right{
+    height: 165px;
+  }
+  .middlepart{
+    top: 70px;
+  }
+  .colm1, .colm2 {
+    width: 162px;
+    top: 70px;
+  }
+  .flexes {
+    width: 320px;
+    left: 10px;
+    height: 130px;
+  }
+}
+@media(max-width:420px){
+  .social{
+    top: 760px;
+  }
+  .app, footer .download,.social {
+    left: 100px;
+  }
+  footer .download{
+    line-height: 40px;
+    top: 800px;
+  }
+  .newArrivalitemsSlide {
+    gap: 10px;
+  }
+  .image {
+    width: 233px;
+    height: 233px;
+  }
+  .brandbody {
+    padding: 23px 26px 23px;
+  }
+  .brandhead {
+    font-size: 35px;
+    line-height: 26px;
+  }
+  .optncap {
+    font-size: 12px;
+  }
+}
+@media(max-width:410px){
+  .right, .middlepart {
+    width: 340px;
+  }
+  .right{
+    height: 150px;
+  }
+  .colm1, .colm2 {
+    width: 140px;
+    top: 60px;
+  }
+  .colm2{
+    left: 170px;
+  }
+  .colm1 {
+    left: 60px;
+  }
+}
+@media(max-width:400px){
+  .container {
+    padding: 21px 25px;
+  }
+  #menuList{
+    left: 25px;
+  }
+  #slideright {
+    left: 340px;
+  }
+  .sec1, .sec2 {
+    width: 300px;
+    height: 200.2px;
+  }
+  .sec2head {
+    font-size: 24px;
+    line-height: 35.1px;
+  }
+  .content.two {
+    height: 160px;
+  }
+  .newArrivalSection .padding, .forwomen .padding, .limelight .padding,.padding{
+    padding: 25px;
+  }
+  .brandhead {
+    font-size: 32px;
+    line-height: 26px;
+  }
+  .subHead {
+    font-size: 24px;
+  }
+  .slidebar {
+    left: 120px;
+    top: 310px;
+  }
+  .subTitle {
+    margin-bottom: 30px;
+  }
+}
+@media(max-width:385px){
+  .meterial{
+    font-size: 10px;
+  }
+  .right, .middlepart {
+    width: 320px;
+  }
+  .flexes {
+    width: 300px;
+  }
+  .colm2 {
+    left: 145px;
+  }
+  .productdetails{
+    padding-top: 10px;
+  }
+}
+@media(max-width:380px){
+  .leftimage, .rightimage {
+    width: 300px;
+  }
+  .advcaption {
+    height: 220px;
+    width: 260px;
+  }
+  .advcap {
+    font-size: 16px;
+    line-height: 17px;
+  }
+  .brandhead {
+    font-size: 30px;
+    line-height: 26px;
+  }
+  .dropdownbutton {
+    left: 270px;
+  }
+  .social,.app,footer .download{
+    left: 80px;
+  }
+  #slideright {
+    left: 320px;
+  }
+  .subHead {
+    font-size: 22px;
+  }
+  .social, .app, footer .download {
+    left: 60px;
+  }
+  .optnicon {
+    height: 33px;
+    width: 33px;
+  }
+  #one {
+    width: 101px;
+  }
+  .right, .middlepart {
+    width: 300px;
+  }
+  .flexes {
+    width: 280px;
+  }
+  .colm1 {
+    left: 40px;
+  }
+  .colm2 {
+    left: 130px;
+  }
+}
+@media(max-width:370px){
+  .slidebar {
+    left: 120px;
+    top: 290px;
+  }
+  .spotleft {
+    height: auto;
+    width: 230px;
+    top: 110px;
+    left: 50px;
+  }
+  #slideleft img,#slideright img {
+    width: 18px;
+    height: 22.47px;
+  }
+  #slideleft, #slideright {
+    top: 180px;
+  }
+  .Copyright {
+    font-size: 10px;
+    padding-top: 10px;
+  }
+}
+@media(max-width:355px){
+  #slideright {
+    left: 300px;
+  }
+  .brands, .brands img {
+    width: 100px;
+    height: 65.55px;
+    border-radius: 6px;
+    object-fit: contain;
+  }
+  .dropdownbutton {
+    left: 250px;
+  }
+  .feedbacks p,.productdetails {
+    font-size: 12px;
+    line-height: 16.8px;
+  }
+  .leftimage, .rightimage {
+    width: 280px;
+  }
+  .sec1, .sec2 {
+    width: 280px;
+    height: 200.2px;
+  }
+  .brandbody {
+    padding: 20px;
+  }
+  .comments,.slide {
+    gap: 15px;
+  }
+  .right, .middlepart {
+    width: 270px;
+  }
+  .flexes {
+    width: 260px;
+    left: 5px;
+  }
+  .toppart div, .downpart div {
+    padding: 3px;
+  }
+  .colm2 {
+    left: 122px;
+  }
+  .flexes p {
+    font-size: 10px;
+  }
+  .navigate ul {
+    gap: 8px;
+  }
+  .mainimage {
+    height: auto;
+  }
+  .description .padding,.similarproducts .padding {
+    padding: 25px;
+  }
+  .Copyright{
+    justify-content: flex-start;
+  }
+}
+@media(max-width:350px){
+  .options {
+    gap: 5px;
+  }
+  #optn2 {
+    gap: 20px;
+  }
+}
+@media(max-width:345px){
+  .productinformations {
+    padding: 0px  0px 0px 25px ;
+  }
+  .description .padding{
+    padding-right: 10px;
+  }
+}
+@media(max-width:340px){
+  .slidebar {
+    left: 100px;
+    top: 270px;
+  }
+  .spothead {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .image {
+    width: 210px;
+    height: 210px;
+  }
+  .leftimage, .rightimage, .gimg {
+    height: 280px;
+  }
+  .arrowButton {
+    top: 300px;
+  }
+  .wishlistbutton {
+    left: 170px;
+    top: 15px;
+  }
+  .social, .app, footer .download {
+    left: 50px;
+  }
+  .slide {
+    gap: 5px;
+  }
+}
+@media(max-width:330px){
+  #slideright {
+    left: 280px;
+  }
+  .slidebar {
+    width: 110px;
+    height: 10px;
+  }
+  .sec1, .sec2 {
+    width: 260px;
+    height: 180.2px;
+  }
+  .content {
+    top: 10px;
+    left: 10px
+  }
+  .subTitle {
+    gap: 10px;
+  }
+  .subHead {
+    font-size: 20px;
+  }
+  .dropdownbutton {
+    left: 220px;
+  }
+  .social {
+    top: 840px;
+  }
+  footer .download {
+    top: 890px;
+  }
+  .app {
+    top: 930px;
+  }
+  .topdown {
+    top: 980px;
+  }
+  .leftimage, .rightimage {
+    width: 250px;
+  }
+  .advcaption{
+  height: 220px;
+  width: 230px;
+  top: 15px;
+  left: 15px;
+  }
+  .navigate ul a li {
+    font-size: 10px;
+  }
+}
+@media(max-width:320px){
+  .feedback {
+    padding: 16px;
+  }
+  .comments {
+    gap: 5px;
+  }
+  .sizes,.options {
+    gap: 10px;
+  }
+}
